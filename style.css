@@ -19,7 +19,11 @@ header
 
 #logo
 {
-
+    height: 111px;
+    width: 382px;
+    position: relative; 
+    left: 0 px;
+    bottom: 0px;
 }
 
 .font-color-grey 
@@ -36,4 +40,10 @@ thead
 .light-blue-background 
 {
     background-color: rgba(177,229,242,255);
+}
+
+table
+{
+    text-align: center;
+
 }
