@@ -4,7 +4,15 @@ header
     width: 2000px;
 }
 
+#header-section 
+{
+    height: 190px;
+    width: 2000px;
+    background-color: cornflowerblue;
+
+}
+
 #article-author
 {
-    color:cornflowerblue; 
+    font-color:cornflowerblue; 
 }
