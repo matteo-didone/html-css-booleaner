@@ -8,16 +8,27 @@ header
 {
     height: 190px;
     width: 2000px;
-    background-color: cornflowerblue;
+    background-color: rgba(78,160,255,255);
 
 }
 
 #article-author
 {
-    color:cornflowerblue; 
+    color: rgba(23,165,227,255);
 }
 
 #logo
 {
 
+}
+
+.font-color-grey 
+{
+    color: rgba(191,191,191,255);
+}
+
+thead
+{
+    background-color: rgba(191,191,191,255);
+    color: rgba(243,250,253,255);
 }
