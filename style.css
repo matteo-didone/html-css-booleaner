@@ -21,7 +21,7 @@ header
 {
     height: 111px;
     width: 382px;
-    position: relative; 
+    position: absolute; 
     left: 0 px;
     bottom: 0px;
 }
