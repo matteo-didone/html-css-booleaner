@@ -41,3 +41,8 @@ table
     text-align: center;
 
 }
+
+.block
+{
+    display: block; 
+}
