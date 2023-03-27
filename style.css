@@ -3,3 +3,9 @@ header
     height: 450px;
     width: 2000px;
 }
+
+#article-author
+{
+    position: inline-block;
+    
+}
