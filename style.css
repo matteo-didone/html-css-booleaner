@@ -6,6 +6,5 @@ header
 
 #article-author
 {
-    position: inline-block;
-    
+    display: inline-block;
 }
