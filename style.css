@@ -3,7 +3,7 @@
     height: 190px;
     width: 2000px;
     background-color: rgba(78,160,255,255);
-    background-image: image("pattern.png");
+    background-image: url('pattern.png');;
 }
 
 #article-author
@@ -11,13 +11,21 @@
     color: rgba(23,165,227,255);
 }
 
+#article-title
+{
+    font-size: 70px;
+}
+
 #logo
 {
-    height: 111px;
-    width: 382px;
-    position: relative; 
+    position: absolute;
     left: 0 px;
-    bottom: 0px;
+    top: 110px;
+}
+
+.tim-pic
+{
+    position: relative;
 }
 
 .font-color-grey 
@@ -60,3 +68,14 @@ table
     top: 8px;
     left: 16px;
 }
+
+.picture-caption
+{
+    font-size: small;
+}
+
+header.span 
+{
+    font-size: 200px;
+}
+
