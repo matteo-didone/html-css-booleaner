@@ -9,7 +9,7 @@ header
     height: 190px;
     width: 2000px;
     background-color: rgba(78,160,255,255);
-    background-image: "pattern.png";
+    background-image: image("pattern.png");
 }
 
 #article-author
