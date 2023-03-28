@@ -69,9 +69,20 @@ thead
 
 .container
 {
-    position: relative;
-    text-align: center;
-    color: white;
+    height: 220px;
+    width: 300px;
+    color: white    ;
+    font-size: 1.5rem;
+}
+
+.container-monitor
+{
+    background-image: url('monitor.jpg');
+}
+
+.container-graph
+{
+    background-image: url('graph.jpg');
 }
 
 .top-left
